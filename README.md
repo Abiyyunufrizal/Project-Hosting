@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎨 KodeBit Frontend — Starter (Next.js 15 + TypeScript + Tailwind v4)
 
 Persiapan folder frontend untuk sistem hosting **KodeBit CloudApps**:
@@ -119,3 +120,6 @@ Semua data sekarang **demo/hardcoded** — tinggal diganti dengan fetch API back
 - Menu sidebar: edit `src/lib/menu.tsx`.
 - Warna status: `Badge` di `ui.tsx` (aktif/lunas/pending/expired).
 - Tipe data API: `src/types/index.ts` — backend Go harus match bentuk ini.
+=======
+# Project-Hosting
+>>>>>>> 7d80b2e3b050f9d5281e3266e5305ca235a17d0f
